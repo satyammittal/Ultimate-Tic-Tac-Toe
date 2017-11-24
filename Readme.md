@@ -1,3 +1,4 @@
+<b>Ultimate TicTacToe</b>
 ● Ultimate TicTacToe is an extension of the 4x4 TicTacToe(which is an extension of 3x3
 TicTacToe), where there are 16 blocks each having 4x4 cells.<br/>
 ● Each game is between two teams.<br/>
